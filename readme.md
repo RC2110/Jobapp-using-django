@@ -18,4 +18,7 @@ once again.
 3. create the html files here so that it can be routed to views.
 4. create a urls.py file to configure url patterns. call the views.function here and give it a name.
 5. Now go to the project folder->urls and add the web application url using path and include.
-4. 
+
+
+Django expects '.' before the module name for the once in the same directory.
+
